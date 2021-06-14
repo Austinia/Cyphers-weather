@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Cyper-weather",
-    "slug": "Cyper-weather",
+    "name": "사이퍼즈 서버 날씨 앱",
+    "slug": "Cypher-weather",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/C.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,12 +21,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/C.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.austinia.cyphersserverweather"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/C.png"
+    },
+    "description": "날씨로 예측하는 사이퍼즈 서버 상태"
   }
 }
