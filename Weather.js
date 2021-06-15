@@ -100,7 +100,7 @@ const weatherOptions = {
 export default function Weather({temp, condition}){
     return (
          <LinearGradient
-        colors={weatherOptions["Clear"].gradient}
+        colors={weatherOptions[condition].gradient}
         style={styles.container}>
             <StatusBar barStyle="light-content" />
             <View style={styles.halfcontainer}>
