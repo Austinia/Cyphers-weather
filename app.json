@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/C.png",
         "backgroundColor": "#FFFFFF"
@@ -29,6 +30,7 @@
     "web": {
       "favicon": "./assets/C.png"
     },
-    "description": "날씨로 예측하는 사이퍼즈 서버 상태"
+    "description": "날씨로 예측하는 사이퍼즈 서버 상태",
+    "githubUrl": "https://github.com/Austinia/Cyphers-weather"
   }
 }
