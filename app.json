@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "사이퍼즈 서버 날씨 앱",
-    "slug": "Cypher-weather",
-    "version": "1.0.0",
+    "name": "사이퍼즈 서버 상태 예측 어플",
+    "slug": "Cyphers-Server-Weather",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/C.png",
     "splash": {
@@ -29,6 +29,6 @@
     "web": {
       "favicon": "./assets/C.png"
     },
-    "description": "날씨로 예측하는 사이퍼즈 서버 상태"
+    "description": "네오플 본사 날씨로 예측하는 사이퍼즈 서버 상태"
   }
 }
